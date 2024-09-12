@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Sysdig Documentation',
   tagline: 'Keep digging!',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.ico', 
 
   // Set the production url of your site here
   url: 'https://docs-sysdig.github.io',
